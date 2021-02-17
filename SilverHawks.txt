@@ -1,0 +1,160 @@
+<item>
+<title>[COLOR gold][B]SilverHawks[/B][/COLOR]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 01[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_41b6b6febe264d27b995b72f4f278731/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 02[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_0bad7c22c3fb4034b4cebd407289ae68/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 03[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_b5b505213a0c477bba71f5747eff2d7b/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 04[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_73c8a53b542144acbbc7c290759ed1f2/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 05[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_e2414767118c49d6b7d185699d35977c/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 06[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_686aa23ea8a845d0a52715fb1862a05c/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 07[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_e1a6ececc7064c09b6f3144e716924b3/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 08[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_68f91551dee145ca83449b9f91aad3be/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 09[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_70188ec161784bdeb0473dd407f8091e/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 10[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_2ea5f1dac5824d158b34ad12334b9c3a/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 11[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_9e6036ff69804a85a7a0aac7830d2ee4/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 12[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_31fa820e056344e7a457687b6149af05/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 13[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_1ef324ff27d944e6b8bf91b6cffbc403/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 14[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_bd53d5bc0ee94249873e551f64ff4bdc/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 15[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_d6e3c36621bd41539a4002a2bf292e10/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 16[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_5652ef058b0b443dbe3748115e406be7/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 17[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_58923798e9cc4f7b81d84fcff235fbc5/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 18[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_39cf1162ebb64340ae6e20a0ae8c01e6/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 19[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_65723b5747c6462496cc032f955b9bed/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 20[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_6a37b10130ed417da5764c63e3f53055/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 21[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_85903a7ce5f0408bad65628277e5aa98/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 22[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/cf8a6b_a251c27008284ac8bbbe97e97b8bc41f/360p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/0EkOjF0.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
