@@ -3,6 +3,14 @@
 <channels>
 
 <channel>
+<name>[COLOR white][B]Família Dinossauros[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/ijrBDti.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Desenhos/main/Família_Dinossauros</externallink>
+<fanart></fanart>
+<info>Desenhos</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Esquilo Sem Grilo[/COLOR][/B]</name>
 <thumbnail>http://i.imgur.com/WtKxCqO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Desenhos/main/Esquilo_Sem_Grilo</externallink>
