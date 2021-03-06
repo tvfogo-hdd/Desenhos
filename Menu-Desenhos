@@ -3,6 +3,14 @@
 <channels>
 
 <channel>
+<name>[COLOR white][B]Esquadrão Marte[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/8moNcsa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Desenhos/main/Esquadrao_Marte</externallink>
+<fanart></fanart>
+<info>Desenhos</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Magos Contos da Arcadia[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/jvFXwvH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Desenhos/main/Magos_Contos_da_Arcadia</externallink>
