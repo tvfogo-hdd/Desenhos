@@ -1,6 +1,14 @@
 <channels>
 </channels>
 <channel>
+<name>[COLOR white][B]Bunnicula, O Vampiro Coelho[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w500/7EyLeebDK4Ar2YsXjhfc1ofjNvd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Desenhos/main/Bunnicula</externallink>
+<fanart></fanart>
+<info>Desenhos</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Star Wars: A Guerra dos Clones[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/VxzHkj9/Star-Wars-A-Guerra-dos-Clones.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Desenhos/main/Star-Wars-A-Guerra-dos-Clones</externallink>
